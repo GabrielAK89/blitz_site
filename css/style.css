@@ -63,12 +63,11 @@ Header
 }
 
 .page-header h1 {
-position: absolute;
-overflow: hidden;
-top: -100%;
-left: -100%;
+    position: absolute;
+    overflow: hidden;
+    top: -100%;
+    left: -100%;
 }
-
 
 .page-header>div {
     position: relative;
@@ -117,6 +116,7 @@ left: -100%;
 
 .main-visual img {
     display: block;
+    width: 100%;
 }
 
 .main-visual figcaption>strong {
